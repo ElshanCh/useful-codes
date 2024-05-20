@@ -1,0 +1,7 @@
+Visual Studio Code:
+	ctrl+shift+0 --> Restart Kernel
+	ctrl+shift+1 --> Clear All Outputs
+	ctrl+shift+2 --> Run All
+
+-Mockup:
+	is a static design of a web page or application that features many of its final design elements but is not functional.
